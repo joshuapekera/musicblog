@@ -1,0 +1,378 @@
+/*********************************************************************************************************** 
+*
+* Theme Background
+* 
+***********************************************************************************************************/
+
+body,
+html,
+.st-content {
+    background: #ffffff;
+}
+/*********************************************************************************************************** 
+*
+* Font
+* 
+***********************************************************************************************************/
+body,
+html,
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+/*********************************************************************************************************** 
+*
+* Color
+* 
+***********************************************************************************************************/
+
+/* Theme Main Color */
+a,
+.nill-loopblog:hover .nill-postdetailtitle a,
+#wp-calendar caption {
+    color: #81c9ad;
+}
+
+/* Theme Main Hover Color */
+a:hover,
+.nill-singledate ul li a:hover,
+.audiojs .time strong,
+.nill-footersocial ul li a:hover,
+.nill-postdetailtitle a:hover,
+.nill-postdetailcategory ul li a:hover,
+.nill-gridtext h6 a:hover {
+    color: #73af98;
+}
+
+/* Theme P Color */
+body,
+html,
+p,
+.btnt-player ol li a,
+.nill-likeit a,
+.nill-likeit a:hover {
+    color: #757575 ;
+}
+
+/* Theme H Color */
+h1,
+h2,
+h3 {
+    color: #252525;
+}
+
+h4,
+h5,
+h6,
+.nill-downloadicon,
+.nill-postdetailtitle a {
+    color: #353535;
+}
+
+/* Theme Dark Color */
+.nill-relatedposttitletwo h6 a,
+.nill-postdetailcategory ul li a,
+.nill-gridtext h6 a,
+.photostack figcaption h2 {
+    color: #555555;
+}
+
+/* Theme Light Color*/
+.btnt-player ol li.playing a,
+.btnt-player ol li a:hover,
+.pause,
+.btnt-player ol li a.active,
+.md-content h3,
+.nill-track-button button:hover,
+.tooltip,
+.md-content button,
+.nill-downloadinfo code,
+.btn-primary,
+.btnt-player .btn-primary,
+.btn-default,
+.btn-default:hover,
+.component nav a,
+.nill-singletags a:hover,
+.nill-pageheadertitlerel h4,
+.nill-pageheadertitletworel,
+.nill-relatedposttitletwo h6 a:hover,
+.nill-rellist:hover .nill-relatedposttitletwo h6 a,
+.mc4wp-form input:focus,
+.nill-footernews h1,
+.mc4wp-form input[type="submit"],
+.mc4wp-form input[type="submit"]:hover,
+.nill-footerreg,
+.nill-footersocial ul li a,
+.nill-event-countdown-list ul li,
+.nill-postgalleries a,
+.nill-quotepost h1,
+.nill-dateone,
+.nill-blogicons,
+.nill-navi ul li a,
+.nill-navi ul li a:hover,
+.nill-navi ul li.current,
+.nill-navi ul li.page_nums,
+.nill-widgettitle h1,
+.nill-widgettitle h1 a,
+.tagcloud a:hover,
+.btn-inverse,
+.btn-inverse:hover,
+.btn.active,
+.nill-filtericons,
+.nill-iconfilter,
+.nill-slidertitle h1 a,
+.nill-slidertitle h1 a:hover,
+.btn-home:hover,
+.nill-mixedtitle h4,
+.nill-sidesearch input:focus, 
+.nill-sidesearch textarea:focus,
+.nillsidetabs li.active a,
+.nillsidetabs li a,
+.main-nav a.parent-expanded,
+.main-nav a:hover {
+    color: #FFFFFF;
+}
+
+/* Theme Grey Color */
+.nill-singledate ul li,
+.nill-singledate ul li a,
+.play,
+.audiojs .time,
+.nill-track-button button,
+.nill-singletags a,
+.play-comment-bigtitle p,
+.nill-quotepost p,
+.nill-postdetailcategory ul li,
+.nill-postdetailfav ul li a,
+.nill-postdetailfav ul li,
+.tagcloud a,
+.nill-buttonicons,
+.main-nav a {
+    color: #aaaaaa;
+}
+
+/*********************************************************************************************************** 
+*
+* Background Color
+* 
+***********************************************************************************************************/
+
+/* Main Color*/
+.audiojs .progress,
+.btnt-player ol li a.active,
+.md-content button,
+.btn-primary,
+.btn-default:hover,
+.nill-backmain,
+.nill-bloogdatetwo,
+.nill-navi ul li a:hover,
+.tagcloud a:hover,
+.widget_mc4wp_widget .nill-widgettitle,
+.btn-inverse:hover,
+.nill-slidertitle h1 a:hover,
+.nill-slidericon .fa,
+.nill-morebutton .fa,
+.btn-home:hover,
+.nillsidetabs li.active a,
+.main-nav li a:hover {
+    background: #81c9ad;
+}
+
+/* Main Color Hover*/
+.md-content button:hover,
+.btn-primary:hover,
+.btn-default,
+.nill-singletags a:hover,
+.nill-relatedposttitletwo h6 a:hover,
+.nill-rellist:hover .nill-relatedposttitletwo h6 a,
+.mc4wp-form input[type="text"],
+.mc4wp-form input[type="email"],
+.nill-bloogdatepadtwo,
+.nill-navi ul li.current,
+.btn.active,
+.nill-sidesearch input:focus, 
+.nill-sidesearch textarea:focus,
+.nillsidetabs li a:hover,
+.main-nav a.parent-expanded,
+.nillsidetabs,
+.nillsidetabs li {
+    background: #73af98;
+}
+
+/* Light */
+.nill-backgrey,
+.btnt-player ol li:before,
+.nill-track-button button,
+.nill-singletags a,
+.widget_search input[type="search"],
+.tagcloud a {
+    background-color: #f5f5f5;
+}
+
+.md-content,
+.md-show.md-effect-12 ~ .md-overlay,
+.container,
+.nill-relatedposttitletwo a,
+.nill-blooglist,
+.nill-gridtext,
+.widget,
+.btn-home {
+    background: #FBFBFB;
+}
+
+.btnt-player ol li:nth-child(1) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(2) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(3) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(4) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(5) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(6) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(7) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(8) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(9) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(10) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(11) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(12) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(13) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(14) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(15) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(16) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(17) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(18) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(19) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(20) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(21) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(22) {
+    background: #FAFAFA;
+}
+.btnt-player ol li:nth-child(23) {
+    background: #FFFFFF;
+}
+.btnt-player ol li:nth-child(24) {
+    background: #FAFAFA;
+}
+
+/* Inverse Dark */
+
+.st-menu {
+    background-color: #151515;
+}
+
+.md-overlay,
+.md-content h3,
+.nill-backblack,
+.mc4wp-form input[type="submit"]:hover,
+.nill-event-countdown-list ul li,
+.nill-quotefull,
+.nill-bloogdatepad,
+.nill-bloogdatepadgrid,
+.nill-widgettitle,
+.btn-inverse,
+.nill-filtericons,
+.component-fullwidth,
+.component nav a .fa,
+.nill-slidertitle h1 a,
+.photostack,
+.main-nav,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active {
+    background-color: #252525;
+}
+
+.audiojs .scrubber,
+.btnt-player ol li a:hover,
+.nill-track-button button:hover,
+.tooltip,
+.nill-downloadinfo code,
+.progress-bar,
+.mc4wp-form input:focus,
+.mc4wp-form input[type="submit"],
+.nill-galleryicons .fa,
+.nill-bloogdate,
+.nill-navi ul li a,
+.nill-navi ul li.page_nums,
+.nill-bloogdategrid,
+.component nav a .fa:hover,
+.nill-sidesearch input, .nill-sidesearch textarea {
+    background-color: #353535;
+}
+
+/*********************************************************************************************************** 
+*
+* Border Color
+* 
+***********************************************************************************************************/
+/*Border Main*/
+.form-control:focus {
+    border-color: #85bea9;
+}
+
+.nillsidetabs li,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active {
+    border-color: #252525;
+}
+
+/*Border Dark */
+.media-avatar-body img,
+.nill-event-countdown-list ul li,
+.nill-galleryicons {
+    border-color: #353535;
+}
+
+/* Border White */
+.nill-postlike,
+.media-body,
+.nill-postdetailtitle,
+.widget ul li,
+#wp-calendar caption {
+    border-color: #f5f5f5;
+}
